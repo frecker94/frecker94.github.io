@@ -7,3 +7,5 @@ My fancy description of my character.
 * my first trait
 * my second trait
 * my third trait
+
+> With great quotes come great responsibilities. 
